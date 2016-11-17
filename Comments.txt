@@ -1,0 +1,6 @@
+I tested this site on:
+
+Chrome
+Firefox
+Opera
+Safari
